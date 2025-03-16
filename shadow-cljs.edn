@@ -2,7 +2,7 @@
  :source-paths ["src/main" "src/dev"]
 
  :dependencies [[no.cjohansen/replicant "2025.03.02"]
-                [com.thheller/shadow-css "0.5.0"]]
+                [com.thheller/shadow-css "0.6.0"]]
 
  :nrepl {:port 9876}
 
