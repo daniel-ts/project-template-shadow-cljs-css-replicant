@@ -1,0 +1,13 @@
+#+TITLE: Create a web frontend with shadow-cljs, Replicant and shadow-css.
+
+Just clone this project template and adjust the parameters as you need. There is nothing dynamic about this template, just a few static files.
+
+*Don't forget to set the the libraries to their newest versions!*
+
+This also depends on the existence of the [[https://www.npmjs.com/package/shadow-cljs][shadow-cljs]] cli tool somwhere in your =PATH= or project.
+
+Some useful links:
+- shadow-cljs: [[https://shadow-cljs.github.io/docs/UsersGuide.html][user manual]] and [[https://clojars.org/thheller/shadow-cljs][Clojars link]]
+- shadow-css: the [[https://github.com/thheller/shadow-css][repo]] (which are the docs and setup instructions) and the [[https://clojars.org/com.thheller/shadow-css][Clojars link]]
+- Replicant: [[https://replicant.fun/][reference page]] and the [[https://clojars.org/no.cjohansen/replicant][Clojars link]]
+
